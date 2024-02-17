@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/joehoang/Desktop/Vscode Projects/COP3502/Lab/lab_assignment_4'
+relocations:
+  - { offsetInCU: 0xD8, offset: 0xD8, size: 0x8, addend: 0x0, symName: _length, symObjAddr: 0x0, symBinAddr: 0x100003B94, symSize: 0x58 }
+  - { offsetInCU: 0x304, offset: 0x304, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1B0, symBinAddr: 0x100003D44, symSize: 0x11C }
+  - { offsetInCU: 0x398, offset: 0x398, size: 0x8, addend: 0x0, symName: _deleteList, symObjAddr: 0x194, symBinAddr: 0x100003D28, symSize: 0x1C }
+  - { offsetInCU: 0x3A0, offset: 0x3A0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x1B0, symBinAddr: 0x100003D44, symSize: 0x11C }
+  - { offsetInCU: 0x3CC, offset: 0x3CC, size: 0x8, addend: 0x0, symName: _insertChar, symObjAddr: 0xDC, symBinAddr: 0x100003C70, symSize: 0xB8 }
+  - { offsetInCU: 0x3D4, offset: 0x3D4, size: 0x8, addend: 0x0, symName: _deleteList, symObjAddr: 0x194, symBinAddr: 0x100003D28, symSize: 0x1C }
+  - { offsetInCU: 0x45A, offset: 0x45A, size: 0x8, addend: 0x0, symName: _toCString, symObjAddr: 0x58, symBinAddr: 0x100003BEC, symSize: 0x84 }
+  - { offsetInCU: 0x462, offset: 0x462, size: 0x8, addend: 0x0, symName: _insertChar, symObjAddr: 0xDC, symBinAddr: 0x100003C70, symSize: 0xB8 }
+  - { offsetInCU: 0x4D7, offset: 0x4D7, size: 0x8, addend: 0x0, symName: _length, symObjAddr: 0x0, symBinAddr: 0x100003B94, symSize: 0x58 }
+  - { offsetInCU: 0x4DF, offset: 0x4DF, size: 0x8, addend: 0x0, symName: _toCString, symObjAddr: 0x58, symBinAddr: 0x100003BEC, symSize: 0x84 }
+...
